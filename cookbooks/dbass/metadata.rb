@@ -1,0 +1,7 @@
+name 'dbass'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures dbass'
+long_description 'Installs/Configures dbass'
+version '0.1.0'
